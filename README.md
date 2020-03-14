@@ -1,4 +1,4 @@
-# donny2020
+# <a href="https://twitter.com/DonnyDonny2020">donny2020</a>
 
 I know I'm not supposed to do this, but the orange clown's coronavirus address particularly annoyed me. So this little app is a bot that tweets at him one of the following three gifs when he says something stupid on Twitter (which is always):
 
@@ -6,7 +6,7 @@ I know I'm not supposed to do this, but the orange clown's coronavirus address p
 
 It's deployed to Heroku and runs off <a href="http://docs.tweepy.org/en/latest/">Tweepy</a>.
 
-Enjoy, for as long as it's allowed to live: <a href="https://twitter.com/DonnyDonny2020">@DonnyDonn2020</a>
+Enjoy, for as long as it's allowed to live: <a href="https://twitter.com/DonnyDonny2020">@DonnyDonny2020</a>
 
 (Note: Navigate to the "Tweets & Replies" tab to see the tweets.)
 
