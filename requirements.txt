@@ -1,0 +1,6 @@
+pandas==0.24.1
+numpy==1.16.2
+datetime
+APScheduler==3.6.3
+glob2==0.6
+tweepy==3.8.0
