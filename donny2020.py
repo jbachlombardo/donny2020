@@ -8,7 +8,7 @@ from glob import glob
 
 # ----- Randomize whether run program -----
 
-rundonny = np.random.choice([True, False], p = [0.7, 0.3])
+rundonny = np.random.choice([True, False], p = [0.85, 0.15])
 if rundonny :
     pass
 else :
@@ -27,7 +27,7 @@ api = tweepy.API(auth)
 
 # ----- Gather media -----
 
-fpaths = glob('*.gif')
+gifs = glob('*.gif')
 
 # ----- Gather recent tweets -----
 
