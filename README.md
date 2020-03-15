@@ -2,7 +2,7 @@
 
 I know I'm not supposed to do this, but the orange clown's coronavirus address particularly annoyed me. So this little app is a bot that tweets at him a random choice of the following three gifs when he says something stupid on Twitter (which is always):
 
-![](please.gif) ![](child.gif) ![](out_of_element.gif)
+<img src="https://github.com/jbachlombardo/donny2020/blob/master/please.gif" height=200> <img src="https://github.com/jbachlombardo/donny2020/blob/master/child.gif" height=200> <img src="https://github.com/jbachlombardo/donny2020/blob/master/out_of_element.gif" height=200>
 
 It's deployed to Heroku and runs off <a href="http://docs.tweepy.org/en/latest/">Tweepy</a>.
 
