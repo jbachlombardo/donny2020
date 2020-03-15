@@ -8,9 +8,9 @@ It's deployed to Heroku and runs off <a href="http://docs.tweepy.org/en/latest/"
 
 Enjoy, for as long as it's allowed to live: <a href="https://twitter.com/DonnyDonny2020">@DonnyDonny2020</a>
 
-(Note: Navigate to the "Tweets & Replies" tab to see the tweets.)
+*(Note: Navigate to the "Tweets & Replies" tab to see the tweets.)*
 
-#### *Update 15-03-20*
+#### Update 15-03-20
 
 It is up and running and has produced this hall of fame so far:
 
