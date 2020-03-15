@@ -6,9 +6,7 @@ I know I'm not supposed to do this, but the orange clown's coronavirus address p
 
 It's deployed to Heroku and runs off <a href="http://docs.tweepy.org/en/latest/">Tweepy</a>.
 
-Enjoy, for as long as it's allowed to live: <a href="https://twitter.com/DonnyDonny2020">@DonnyDonny2020</a>
-
-*(Note: Navigate to the "Tweets & Replies" tab to see the tweets.)*
+Enjoy, for as long as it's allowed to live: <a href="https://twitter.com/DonnyDonny2020/with_replies">@DonnyDonny2020</a>
 
 #### Update 15-03-20
 
