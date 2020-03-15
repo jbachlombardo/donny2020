@@ -14,7 +14,7 @@ Enjoy, for as long as it's allowed to live: <a href="https://twitter.com/DonnyDo
 
 It is up and running and has produced this hall of fame so far:
 
-<img src="https://github.com/jbachlombardo/donny2020/blob/master/IMG_0575.PNG" width="300"> <img src="https://github.com/jbachlombardo/donny2020/blob/master/IMG_0576.PNG" width="300">
+<img src="https://github.com/jbachlombardo/donny2020/blob/master/IMG_0575.PNG" width="285"> <img src="https://github.com/jbachlombardo/donny2020/blob/master/IMG_0576.PNG" width="285">
 
 I'll post the best tweet for each gif for posterity...
 
