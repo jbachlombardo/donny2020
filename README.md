@@ -28,7 +28,7 @@ Script for bot. Order of operations:
 - Check tweet occurred in last hour (within range of hourly clock worker)
 - Post randomly selected gif in reply to any tweet that passes above checks
 
-Note: Credentials tokens not uploaded.
+*Note: Credentials tokens not uploaded.*
 
 ### clock.py
 
