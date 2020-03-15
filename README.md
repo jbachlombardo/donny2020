@@ -19,12 +19,12 @@ I'll post the best tweet for each gif for posterity...
 ### donny2020.py
 
 Script for bot. Order of operations:
-- Only run rest of script based on random T / F draw
-- Authorize and access Twitter API (Tweepy)
-- Gather most recent tweets by Trump
-- Ensure there is a non-RT in the most recent tweets to respond to
-- Check tweet occurred in last hour (within range of hourly clock worker)
-- Post randomly selected gif in reply to any tweet that passes above checks
+1. Only run rest of script based on random T / F draw
+1. Authorize and access Twitter API (Tweepy)
+1. Gather most recent tweets by Trump
+1. Ensure there is a non-RT in the most recent tweets to respond to
+1. Check tweet occurred in last hour (within range of hourly clock worker)
+1. Post randomly selected gif in reply to any tweet that passes above checks
 
 *Note: Credentials tokens not uploaded.*
 
