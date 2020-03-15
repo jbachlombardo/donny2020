@@ -10,6 +10,14 @@ Enjoy, for as long as it's allowed to live: <a href="https://twitter.com/DonnyDo
 
 (Note: Navigate to the "Tweets & Replies" tab to see the tweets.)
 
+#### Update 15-03-20
+
+It is up and running and has produced this hall of fame so far:
+
+<img src="https://github.com/jbachlombardo/donny2020/blob/master/IMG_0575.PNG" width="300"> <img src="https://github.com/jbachlombardo/donny2020/blob/master/IMG_0576.PNG" width="300">
+
+I'll post the best tweet for each gif for posterity...
+
 ### donny2020.py
 
 Script for bot. Order of operations:
