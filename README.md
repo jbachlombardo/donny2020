@@ -12,7 +12,7 @@ Enjoy, for as long as it's allowed to live: <a href="https://twitter.com/DonnyDo
 
 It is up and running and has produced this hall of fame so far:
 
-<a href="https://twitter.com/DonnyDonny2020/status/1238812133443452933"><img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_0575.PNG" width="285" alt="result1_140320"></a> <a href="https://twitter.com/DonnyDonny2020/status/1238827222716289024"><img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_0576.PNG" width="285" alt="result2_140320"></a>
+<a href="https://twitter.com/DonnyDonny2020/status/1238812133443452933"><img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_0598.PNG" width="285" alt="result1_140320"></a> <a href="https://twitter.com/DonnyDonny2020/status/1238827222716289024"><img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_0597.PNG" width="285" alt="result2_140320"></a>
 
 I'll post the best tweet for each gif for posterity...
 
