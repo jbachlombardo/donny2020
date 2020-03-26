@@ -1,4 +1,4 @@
-# <a href="https://twitter.com/DonnyDonny2020">donny2020</a>
+# <a href="https://twitter.com/DonnyDonny2020">DonnyDonny2020</a>
 
 I know I'm not supposed to do this, but the orange clown's coronavirus address particularly annoyed me. So this little bot  tweets at him a random choice of the following three gifs when he says something stupid on Twitter (which is always):
 
