@@ -8,7 +8,7 @@ It's deployed to Heroku and runs off <a href="http://docs.tweepy.org/en/latest/"
 
 Enjoy, for as long as it's allowed to live: <a href="https://twitter.com/DonnyDonny2020/with_replies">@DonnyDonny2020</a>
 
-#### Update 15-03-20
+#### Update 26-03-20
 
 It is up and running and has produced this hall of fame so far:
 
