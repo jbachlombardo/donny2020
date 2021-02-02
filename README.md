@@ -2,7 +2,7 @@
 
 - <a href="https://github.com/jbachlombardo/donny2020#update-02-02-21">2 Feb 2021 update:</a> Trump banned, bot retired
 - <a href="https://github.com/jbachlombardo/donny2020#update-26-03-20">26 March 2020 update:</a> Up and running, Hall of Fame
-- <a href="https://github.com/jbachlombardo/donny2020#donny2020-tweetbot">14 March 2020:</a> DonnyDonny2020 deployed
+- <a href="https://github.com/jbachlombardo/donny2020#donny2020-tweetbot">14 March 2020:</a> @DonnyDonny2020 deployed
 
 ### Update 02-02-21
 
