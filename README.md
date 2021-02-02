@@ -28,7 +28,7 @@ It's deployed to Heroku and runs off <a href="http://docs.tweepy.org/en/latest/"
 
 Enjoy, for as long as it's allowed to live: <a href="https://twitter.com/DonnyDonny2020/with_replies">@DonnyDonny2020</a>
 
-### donny2020.py
+#### donny2020.py
 
 Script for bot. Order of operations:
 1. Only run rest of script based on random T / F draw
@@ -40,14 +40,14 @@ Script for bot. Order of operations:
 
 *Note: Credentials tokens not uploaded.*
 
-### clock.py
+#### clock.py
 
 Hourly clock to run script.
 
-### Procfile
+#### Procfile
 
 Heroku environment clock worker.
 
-### requirements.txt
+#### requirements.txt
 
 Dependencies for Heroku environment
