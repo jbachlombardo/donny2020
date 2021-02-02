@@ -1,10 +1,16 @@
 # <a href="https://twitter.com/DonnyDonny2020">DonnyDonny2020</a>
 
-#### Update 26-03-20
+### Update 02-02-21
+
+With the goon now dispatched from the platform, it is time to retire @DonnyDonny2020. Never has a missing tweet looked so sweet:
+
+<img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_2487.PNG" width="240" alt="resultFinal_020221">
+
+### Update 26-03-20
 
 It is up and running and has produced this hall of fame so far:
 
-<a href="https://twitter.com/DonnyDonny2020/status/1238812133443452933"><img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_0598.PNG" width="285" alt="result1_140320"></a> <a href="https://twitter.com/DonnyDonny2020/status/1238827222716289024"><img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_0597.PNG" width="285" alt="result2_140320"></a> <a href="https://twitter.com/DonnyDonny2020/status/1242919187112222721"><img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_0646.PNG" width="285" alt="result3_180320"></a>
+<a href="https://twitter.com/DonnyDonny2020/status/1238812133443452933"><img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_0598.PNG" width="240" alt="result1_140320"></a> <a href="https://twitter.com/DonnyDonny2020/status/1238827222716289024"><img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_0597.PNG" width="240" alt="result2_140320"></a> <a href="https://twitter.com/DonnyDonny2020/status/1242919187112222721"><img src="https://github.com/jbachlombardo/donny2020/blob/master/Results/IMG_0646.PNG" width="240" alt="result3_180320"></a>
 
 I'll post the best tweet for each gif for posterity...
 
@@ -12,7 +18,7 @@ I'll post the best tweet for each gif for posterity...
 
 I know I'm not supposed to do this, but the orange clown's coronavirus address particularly annoyed me. So this little bot  tweets at him a random choice of the following three gifs when he says something stupid on Twitter (which is always):
 
-<img src="https://github.com/jbachlombardo/donny2020/blob/master/gifs/please.gif" height=170> <img src="https://github.com/jbachlombardo/donny2020/blob/master/gifs/out_of_element.gif" height=170> <img src="https://github.com/jbachlombardo/donny2020/blob/master/gifs/child.gif" height=170>
+<img src="https://github.com/jbachlombardo/donny2020/blob/master/gifs/please.gif" height=150> <img src="https://github.com/jbachlombardo/donny2020/blob/master/gifs/out_of_element.gif" height=150> <img src="https://github.com/jbachlombardo/donny2020/blob/master/gifs/child.gif" height=150>
 
 It's deployed to Heroku and runs off <a href="http://docs.tweepy.org/en/latest/">Tweepy</a>.
 
